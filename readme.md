@@ -491,6 +491,7 @@
 | [Haikei](https://app.haikei.app/) | An awesome multishape web app. |
 | [Vector](https://vector.ma/) | Awesome website for all kinds of Moroccan vectors. |
 | [Heazy](https://app.heazy.studio/) | Unique vector assets within seconds. |
+| [Polar Vectors] (https://polarvectors.com) | Free Graphic Design Resources. Free vector graphics for personal and commercial use. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
